@@ -23,7 +23,6 @@ To pass parameters, use `--params "''"` (e.g. `choco install selenium-chromium-e
     <copyright>Chromium and Microsoft teams. All Rights Reserved.</copyright>
     <licenseUrl>https://az813057.vo.msecnd.net/webdriver/license.html</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://raw.githubusercontent.com/laurin1/chocolatey-packages/master/manual/selenium-chromium-edge-driver/icon.png</iconUrl>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
