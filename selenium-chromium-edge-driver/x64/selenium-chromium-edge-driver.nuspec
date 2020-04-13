@@ -23,6 +23,9 @@ To pass parameters, use `--params "''"` (e.g. `choco install selenium-chromium-e
     <copyright>Chromium and Microsoft teams. All Rights Reserved.</copyright>
     <licenseUrl>https://az813057.vo.msecnd.net/webdriver/license.html</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <dependencies>
+      <dependency id="kb2919355" version="1.0.20160915" />
+    </dependencies>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
