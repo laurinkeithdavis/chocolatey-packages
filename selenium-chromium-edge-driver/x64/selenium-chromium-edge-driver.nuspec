@@ -22,7 +22,6 @@ To pass parameters, use `--params "''"` (e.g. `choco install selenium-chromium-e
     <docsUrl>https://docs.microsoft.com/en-us/microsoft-edge/webdriver-chromium</docsUrl>
     <tags>selenium chromium microsoft-edge driver webdriver testing web-applications freeware</tags>
     <copyright>Chromium and Microsoft teams. All Rights Reserved.</copyright>
-    <licenseUrl>https://az813057.vo.msecnd.net/webdriver/license.html</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <dependencies>
       <dependency id="kb2919355" version="1.0.20160915" />
